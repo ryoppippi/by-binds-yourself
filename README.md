@@ -36,6 +36,14 @@ source by.zsh
 
 ### fish
 
+#### with [fisher](https://github.com/jorgebucaran/fisher)
+
+```
+fisher install ryoppippi/fish-na
+```
+
+#### manual
+
 ```fish
 source by.fish
 ```
